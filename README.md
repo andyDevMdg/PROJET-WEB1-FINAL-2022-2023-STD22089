@@ -17,16 +17,29 @@ Pour la réalisation de ce Portfolio, j'ai suivi un tutoriel hors du template fo
 Je voulais avoir un aperçu de leurs utilisations principalement ReactJS, ThreeJs et Tailwind CSS.
 J'ai également eu recours à plusieurs librairies.
 De ce fait j'ai utilisé les suivantes:
+
 	- HTML
+        
 	- CSS
+        
 	- JS
+        
 	- Tailwind CSS
+        
 	- ReactJs
+        
 	- ViteJs
+        
 	- ThreeJs
+        
 	- react-three/fiber et react-three/drei
+        
 	- motion et framer-motion
+        
 	- maath
+        
 	- react-tilt
+        
 	- react-vertical-timeline-component
+        
 	- Git (pour le deploiement)
