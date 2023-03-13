@@ -14,7 +14,7 @@ il vous faudra d'abord installer les dépendances nécessaires à l'aide de la c
 
 ------------------------------------------
 Pour la réalisation de ce Portfolio, j'ai suivi un tutoriel hors du template fourni car j'avais déjà des technologies en tête.
-Je voulais avoir un aperçu de leurs utilisations principalement ReactJS, ThreeJs et Tailwind CSS.
+Je voulais avoir un aperçu de leurs utilisations notamment pour ReactJS, ThreeJs et Tailwind CSS.
 J'ai également eu recours à plusieurs librairies.
 De ce fait j'ai utilisé les suivantes:
 
